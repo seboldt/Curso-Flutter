@@ -1,0 +1,26 @@
+Positioned(
+                    left: 40,
+                    top: 60,
+                    child: Text(
+                      "NXT",
+                      style: TextStyle(
+                        fontSize: 55,
+                        color: Colors.white,
+                        fontFamily: "Poppins",
+                        fontWeight: FontWeight.w900,
+                      ),
+                    ),
+                  ),
+                  Positioned(
+                    top: 110,
+                    left: 72,
+                    child: Text(
+                      "LVL",
+                      style: TextStyle(
+                        fontSize: 55,
+                        color: Colors.white,
+                        fontFamily: "Poppins",
+                        fontWeight: FontWeight.w900,
+                      ),
+                      ),                    
+                  )
